@@ -20,7 +20,7 @@
 
 6
 00:00:27,790 --> 00:00:31,950
- the Roussillon plain, the terraced vineyards, and the marine horizon.
+ the Roussillon plain, the terraced vineyards and the marine horizon.
 
 7
 00:00:33,110 --> 00:00:37,470
@@ -36,7 +36,7 @@
 
 10
 00:00:46,470 --> 00:00:52,430
- sets out to lock down its borders with the vast defensive system devised by General Séré de
+ sets out to secure its borders with the vast defensive system devised by General Séré de
 
 11
 00:00:52,670 --> 00:00:52,950
@@ -88,7 +88,7 @@ The work is semi-buried, following the steep relief of the mountain.
 
 23
 00:01:41,270 --> 00:01:44,030
- with neighboring works: the Galline battery,
+ with neighbouring works: the Galline battery,
 
 24
 00:01:44,310 --> 00:01:47,310
@@ -140,7 +140,7 @@ The work is semi-buried, following the steep relief of the mountain.
 
 36
 00:02:38,380 --> 00:02:42,940
- while its former barracks welcomes hikers in search of authenticity.
+ while its former barracks welcomes walkers in search of authenticity.
 
 37
 00:02:44,480 --> 00:02:48,320
@@ -152,4 +152,4 @@ The work is semi-buried, following the steep relief of the mountain.
 
 39
 00:02:52,960 --> 00:02:57,840
- a place where stone, history, and nature converse facing the infinity of the Mediterranean.
+ a place where stone, history and nature converse facing the infinity of the Mediterranean.
